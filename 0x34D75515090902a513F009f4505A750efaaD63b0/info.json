@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x34D75515090902a513F009f4505A750efaaD63b0",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Maker is a Decentralized Autonomous Organization that creates and insures the dai stablecoin on the Ethereum blockchain"
+  },
+  "id": "ec96f97f-b5ef-4099-b7de-00c57feec2ab",
+  "links": {
+    "explorer": "https://hecoinfo.com/token/0x34d75515090902a513f009f4505a750efaad63b0",
+    "website": "https://www.htokens.finance/zh-cn/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/heco-tokenlist/master/0x34D75515090902a513F009f4505A750efaaD63b0/logo.png"
+  },
+  "name": "Heco-Peg MKR Token",
+  "networkCode": "heco",
+  "spam": false,
+  "symbol": "MKR",
+  "tags": [
+    "defi",
+    "heco-tag"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

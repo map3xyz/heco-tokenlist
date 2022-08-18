@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x09006b66d89e5213Fc173403AACBA30620A91F4e",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Decentraland is a virtual reality platform powered by the Ethereum blockchain. Users can create, experience, and monetize content and applications"
+  },
+  "id": "58a3ebfa-5c3b-49a7-829a-67e80147d5d4",
+  "links": {
+    "explorer": "https://hecoinfo.com/token/0x09006b66d89e5213Fc173403AACBA30620A91F4e",
+    "website": "https://www.htokens.finance/zh-cn/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/heco-tokenlist/master/0x09006b66d89e5213Fc173403AACBA30620A91F4e/logo.png"
+  },
+  "name": "Heco-Peg MANA Token",
+  "networkCode": "heco",
+  "spam": false,
+  "symbol": "MANA",
+  "tags": [
+    "defi",
+    "heco-tag"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

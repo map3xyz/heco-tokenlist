@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x9362Bbef4B8313A8Aa9f0c9808B80577Aa26B73B",
+  "color": null,
+  "decimals": 6,
+  "description": {
+    "en": "USDC is a fully collateralized US Dollar stablecoin developed by CENTRE, the open source project with Circle being the first of several forthcoming issuers."
+  },
+  "id": "79dc02e3-828b-41c2-a08b-6365672a61e1",
+  "links": {
+    "explorer": "https://hecoinfo.com/token/0x9362bbef4b8313a8aa9f0c9808b80577aa26b73b",
+    "website": "https://www.htokens.finance/zh-cn/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/heco-tokenlist/master/0x9362Bbef4B8313A8Aa9f0c9808B80577Aa26B73B/logo.png"
+  },
+  "name": "Heco-Peg USDCHECO Token",
+  "networkCode": "heco",
+  "spam": false,
+  "symbol": "USDC-HECO",
+  "tags": [
+    "defi",
+    "heco-tag"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,32 @@
+{
+  "active": true,
+  "address": "0x5eE41aB6edd38cDfB9f6B4e6Cf7F75c87E170d98",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "TUSD is a regulated, exchange-independent stablecoin backed 1-for-1 with US Dollars."
+  },
+  "id": "2a2ab9ff-308e-41c7-904e-f0a96147dac2",
+  "links": {
+    "explorer": "https://hecoinfo.com/token/0x5ee41ab6edd38cdfb9f6b4e6cf7f75c87e170d98",
+    "website": "https://trueusd.com/",
+    "coingecko": "https://coingecko.com/coins/true-usd/",
+    "twitter": "https://twitter.com/tusd_official",
+    "telegram": "https://t.me/TUSDofficial_EN",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/trueusd/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/heco-tokenlist/master/0x5eE41aB6edd38cDfB9f6B4e6Cf7F75c87E170d98/logo.png"
+  },
+  "name": "Heco-Peg TUSD Token",
+  "networkCode": "heco",
+  "spam": false,
+  "symbol": "TUSD",
+  "tags": [
+    "stablecoin",
+    "heco-tag"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}
