@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x9e004545c59D359F6B7BFB06a26390b087717b42",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "A blockchain-based middleware, acting as a bridge between cryptocurrency smart contracts, data feeds, APIs and traditional bank account payments."
+  },
+  "id": "e3693453-e8f6-4094-b962-910e188a90df",
+  "links": {
+    "explorer": "https://hecoinfo.com/token/0x9e004545c59d359f6b7bfb06a26390b087717b42",
+    "website": "https://www.htokens.finance/zh-cn/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/heco/assets/heco-tokenlist/0x9e004545c59D359F6B7BFB06a26390b087717b42/logo.png"
+  },
+  "name": "Heco-Peg LINK Token",
+  "networkCode": "heco",
+  "spam": false,
+  "symbol": "LINK",
+  "tags": [
+    "defi",
+    "heco-tag"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

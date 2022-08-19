@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xfAdD0c7762c59cEBC5248019dBAC652319CEBDbd",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "The Graph is an indexing protocol and global API for organizing blockchain data and making it easily accessible with GraphQL."
+  },
+  "id": "622581a8-a4a6-4469-bd9c-a9a87c545ab9",
+  "links": {
+    "explorer": "https://hecoinfo.com/token/0xfadd0c7762c59cebc5248019dbac652319cebdbd",
+    "website": "https://www.htokens.finance/zh-cn/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/heco/assets/heco-tokenlist/0xfAdD0c7762c59cEBC5248019dBAC652319CEBDbd/logo.png"
+  },
+  "name": "Heco-Peg GRT Token",
+  "networkCode": "heco",
+  "spam": false,
+  "symbol": "GRT",
+  "tags": [
+    "defi",
+    "heco-tag"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

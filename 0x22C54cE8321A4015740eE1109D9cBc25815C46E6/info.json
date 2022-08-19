@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x22C54cE8321A4015740eE1109D9cBc25815C46E6",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "UNI token served as governance token for Uniswap protocol with 1 billion UNI have been minted at genesis. 60% of the UNI genesis supply is allocated to Uniswap community members and remaining for team, investors and advisors."
+  },
+  "id": "9ecf7b1f-ac50-4d4d-a230-51052523a1bc",
+  "links": {
+    "explorer": "https://hecoinfo.com/token/0x22c54ce8321a4015740ee1109d9cbc25815c46e6",
+    "website": "https://www.htokens.finance/zh-cn/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/heco/assets/heco-tokenlist/0x22C54cE8321A4015740eE1109D9cBc25815C46E6/logo.png"
+  },
+  "name": "Heco-Peg UNI Token",
+  "networkCode": "heco",
+  "spam": false,
+  "symbol": "UNI",
+  "tags": [
+    "defi",
+    "heco-tag"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

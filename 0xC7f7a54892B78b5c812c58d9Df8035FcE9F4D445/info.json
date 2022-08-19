@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0xC7f7a54892B78b5c812c58d9Df8035FcE9F4D445",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Cryptocurrency Derivatives Exchange"
+  },
+  "id": "691d5432-b16c-47bd-a06f-f7d299e13526",
+  "links": {
+    "explorer": "https://hecoinfo.com/token/0xc7f7a54892b78b5c812c58d9df8035fce9f4d445",
+    "website": "https://www.htokens.finance/zh-cn/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/heco/assets/heco-tokenlist/0xC7f7a54892B78b5c812c58d9Df8035FcE9F4D445/logo.png"
+  },
+  "name": "Heco-Peg FTT Token",
+  "networkCode": "heco",
+  "spam": false,
+  "symbol": "FTT",
+  "tags": [
+    "defi",
+    "heco-tag"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

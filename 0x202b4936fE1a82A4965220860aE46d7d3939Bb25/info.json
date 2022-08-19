@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "address": "0x202b4936fE1a82A4965220860aE46d7d3939Bb25",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Aave is an Open Source and Non-Custodial protocol to earn interest on deposits & borrow assets. It also features access to highly innovative flash loans, which let developers borrow instantly and easily; no collateral needed. With 16 different assets, 5 of which are stablecoins."
+  },
+  "id": "cce98dfb-62ba-4043-95d7-14c1049deaeb",
+  "links": {
+    "explorer": "https://hecoinfo.com/token/0x202b4936fe1a82a4965220860ae46d7d3939bb25",
+    "website": "https://www.htokens.finance/zh-cn/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/heco/assets/heco-tokenlist/0x202b4936fE1a82A4965220860aE46d7d3939Bb25/logo.png"
+  },
+  "name": "Heco-Peg AAVE Token",
+  "networkCode": "heco",
+  "spam": false,
+  "symbol": "AAVE",
+  "tags": [
+    "defi",
+    "heco-tag"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}
