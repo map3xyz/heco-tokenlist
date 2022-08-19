@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x70D171d269D964d14aF9617858540061e7bE9EF1",
+  "color": null,
+  "decimals": 8,
+  "description": {
+    "en": "Wrapped Bitcoin (WBTC) is an ERC20 token backed 1:1 with Bitcoin. Completely transparent. 100% verifiable. Community led."
+  },
+  "id": "3ae74eac-bedf-4288-b7c9-3f8f5cb54eb6",
+  "links": {
+    "explorer": "https://hecoinfo.com/token/0x70d171d269d964d14af9617858540061e7be9ef1",
+    "website": "https://www.htokens.finance/zh-cn/",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/wrapped-bitcoin/",
+    "coingecko": "https://coingecko.com/coins/wrapped-bitcoin/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/heco/assets/heco-tokenlist/0x70D171d269D964d14aF9617858540061e7bE9EF1/logo.png"
+  },
+  "name": "Heco-Peg WBTCHECO Token",
+  "networkCode": "heco",
+  "spam": false,
+  "symbol": "WBTC",
+  "tags": [
+    "defi",
+    "heco-tag"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}
